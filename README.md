@@ -97,13 +97,14 @@ Install Helping hands with npm
   
 ## Authors
  
+- [@juneisenuj](https://www.github.com/juneisenuj)
 - [@Jcase22](https://github.com/Jcase22)
 - [@jpbust](https://www.github.com/jpbust)
 - [@katscap](https://www.github.com/katscap)
 - [@Gumcer](https://github.com/Gumcer)
 - [@SeijiMatsumoto](https://www.github.com/SeijiMatsumoto)
 - [@SandraM1](https://github.com/SandraM1)
-- [@juneisenuj](https://www.github.com/juneisenuj)
+
 ## Acknowledgements
 
  - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
